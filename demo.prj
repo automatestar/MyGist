@@ -3,10 +3,10 @@
    <description></description>
    <name>demo</name>
    <tag></tag>
-   <UUID>2be1953f-d7ef-496b-9ff2-280e4f491bc8</UUID>
+   <UUID>7d788f91-2201-4b13-be73-a7ce955357b8</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/quiducle/Documents/calculator-sample/demo.prj</projectFileLocation>
+   <projectFileLocation>D:\Lucy\BDD_Cucumber\SampleGist\demo.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

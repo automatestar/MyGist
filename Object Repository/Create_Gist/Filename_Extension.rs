@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Filename_Extension</name>
+   <tag></tag>
+   <elementGuidId>b3fdf73e-9e80-4ea2-a77b-5c279cb0f119</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;gists&quot;]/div[2]/div/div[1]/div[1]/input[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//*[@id=&quot;gists&quot;]/div[2]/div/div[1]/div[1]/input[2]</value>
+   </webElementXpaths>
+</WebElementEntity>
